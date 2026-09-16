@@ -1,6 +1,6 @@
 # Hi there, I'm Afzal Jamal 👋
 
-### Backend Developer • Python Developer • MCA Student
+### Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer | Backend Developer |
 
 I’m a software developer focused on **backend engineering, web applications, APIs, databases, and developer tools**.
 
