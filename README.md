@@ -22,9 +22,12 @@ Currently, I'm pursuing my **Master of Computer Applications (MCA)** while conti
 * 🐍 Primarily working with **Python**
 * 🌐 Building applications using **Flask, Vue.js and REST APIs**
 * 🗄️ Interested in **databases, caching, background jobs and system design**
+* 🤖 Currently learning **Machine Learning and training ML models**
+* 📊 Exploring **data preprocessing, model building, evaluation and experimentation**
 * ☁️ Exploring **AWS and cloud technologies**
 * 🧩 Practicing **Data Structures & Algorithms**
 * 🚀 Constantly building and experimenting with new projects
+
 
 ---
 
@@ -155,6 +158,9 @@ I'm particularly interested in understanding what happens **behind the UI** — 
 
 * Advanced Python
 * Data Structures & Algorithms
+* Machine Learning fundamentals
+* Training and evaluating ML models
+* Data preprocessing and feature engineering
 * Backend Architecture
 * System Design
 * Database Design
@@ -163,6 +169,7 @@ I'm particularly interested in understanding what happens **behind the UI** — 
 * REST API design
 * AWS & cloud fundamentals
 * Software engineering best practices
+
 
 ---
 
