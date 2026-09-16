@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi there, I'm Afzal Jamal 👋
 
 ### Backend Developer • Python Developer • MCA Student
